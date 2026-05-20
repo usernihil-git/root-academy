@@ -1,0 +1,6 @@
+{
+  "name": "Bash Simulator & Linux Academy",
+  "description": "Интерактивный учебный тренажер терминала Linux с реальным Bash, визуальным проводником файлов, интерактивными уроками и ИИ-наставником.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
